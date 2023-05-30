@@ -14,4 +14,28 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FunctionPackage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Instantiation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FunctionPackage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="快速排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Position.txt">
+      <Filter>源文件</Filter>
+    </Text>
+  </ItemGroup>
 </Project>
