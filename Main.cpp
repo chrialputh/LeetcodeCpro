@@ -1,8 +1,8 @@
-#include<iostream>
+ï»¿#include<iostream>
 #include "Instantiation.h"
 
 int main () {
 
-	QuickSort_demo(); //¿ìËÙÅÅĞò.cpp
+	QuickSort_demo(); //å¿«é€Ÿæ’åº.cpp
 	return 0;
 }

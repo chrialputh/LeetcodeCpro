@@ -1,7 +1,7 @@
-#pragma once
+ï»¿#pragma once
 /*
-´ËÎÄ¼şÊÇ¹¦ÄÜº¯ÊıµÄ.hÎÄ¼ş¡£
-¶ÔÓ¦Ô´ÎÄ¼şÖĞFunctionPackage.cpp¡£
-ÒÔÏÂ¶¼ÊÇ¶ÔFunctionPackage.cppÖĞµÄº¯ÊıÉùÃ÷£¬Ò»¹²Ô´ÎÄ¼şÖĞ¸÷ÖÖ¡°Àı×Ó.cpp"µ¼ÈëÊ¹ÓÃ¡£
+æ­¤æ–‡ä»¶æ˜¯åŠŸèƒ½å‡½æ•°çš„.hæ–‡ä»¶ã€‚
+å¯¹åº”æºæ–‡ä»¶ä¸­FunctionPackage.cppã€‚
+ä»¥ä¸‹éƒ½æ˜¯å¯¹FunctionPackage.cppä¸­çš„å‡½æ•°å£°æ˜ï¼Œä¸€å…±æºæ–‡ä»¶ä¸­å„ç§â€œä¾‹å­.cpp"å¯¼å…¥ä½¿ç”¨ã€‚
 */
-void quickSort(int [], int, int); //¿ìËÙÅÅĞò
+void quickSort(int [], int, int); //å¿«é€Ÿæ’åº

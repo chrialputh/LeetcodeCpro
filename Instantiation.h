@@ -1,7 +1,7 @@
-#pragma once
+ï»¿#pragma once
 /*
-´ËÎÄ¼þÊÇÒ»¸ö"Àý×Ó.cpp"µÄ.hÎÄ¼þ¡£
-¶ÔÓ¦Ô´ÎÄ¼þÖÐ£¬¸÷ÖÖ"Àý×Ó.cpp"µÄº¯ÊýÉùÃ÷¡£
-´ËÎÄ¼þÊÇÎªÁËÈÃÖ÷º¯Êýµ¼Èë£¬ ÒÔ·½±ãÖ´ÐÐ¡£
+æ­¤æ–‡ä»¶æ˜¯ä¸€ä¸ª"ä¾‹å­.cpp"çš„.hæ–‡ä»¶ã€‚
+å¯¹åº”æºæ–‡ä»¶ä¸­ï¼Œå„ç§"ä¾‹å­.cpp"çš„å‡½æ•°å£°æ˜Žã€‚
+æ­¤æ–‡ä»¶æ˜¯ä¸ºäº†è®©ä¸»å‡½æ•°å¯¼å…¥ï¼Œ ä»¥æ–¹ä¾¿æ‰§è¡Œã€‚
 */
 void QuickSort_demo();
